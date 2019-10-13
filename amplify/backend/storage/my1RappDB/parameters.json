@@ -1,0 +1,7 @@
+{
+    "tableName": "items",
+    "partitionKeyName": "landlords",
+    "partitionKeyType": "S",
+    "sortKeyName": "phone",
+    "sortKeyType": "N"
+}

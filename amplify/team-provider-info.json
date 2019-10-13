@@ -1,0 +1,19 @@
+{
+    "mvpapp": {
+        "awscloudformation": {
+            "AuthRoleName": "my1roofapp-mvpapp-20191013134547-authRole",
+            "UnauthRoleArn": "arn:aws:iam::985060895655:role/my1roofapp-mvpapp-20191013134547-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::985060895655:role/my1roofapp-mvpapp-20191013134547-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "my1roofapp-mvpapp-20191013134547-deployment",
+            "UnauthRoleName": "my1roofapp-mvpapp-20191013134547-unauthRole",
+            "StackName": "my1roofapp-mvpapp-20191013134547",
+            "StackId": "arn:aws:cloudformation:us-east-1:985060895655:stack/my1roofapp-mvpapp-20191013134547/4a412a80-ede1-11e9-8123-0e639cbb91d4"
+        },
+        "categories": {
+            "auth": {
+                "cognito4cfd92e7": {}
+            }
+        }
+    }
+}
